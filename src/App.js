@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Copeteeeee
+          Learn Copeteeeee in apex!!!
         </a>
       </header>
     </div>
